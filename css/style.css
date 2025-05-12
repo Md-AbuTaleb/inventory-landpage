@@ -53,3 +53,10 @@ button:hover{
 	border: 1px solid #0a3d62;
 }
 .keyfeature .card:hover h4{color: #35475e;}
+
+/*Responsive*/
+@media screen and (max-width: 576px){
+	.sld{
+		width: 100%;
+	}
+}
